@@ -24,6 +24,10 @@
   margin: 55px 0 -76px;
 }
 
+.u-section-1 .u-layout-cell-1 {
+  min-height: 620px;
+}
+
 .u-section-1 .u-layout-cell-2 {
   min-height: 620px;
 }
