@@ -7,6 +7,9 @@
   margin-bottom: 0;
 }
 
+.u-section-1 .u-layout-cell-1 {
+  min-height: 620px;
+}
 
 .u-section-1 .u-container-layout-1 {
   padding: 53px 30px;
@@ -21,10 +24,6 @@
   font-weight: 300;
   line-height: 40px;
   margin: 55px 0 -76px;
-}
-
-.u-section-1 .u-layout-cell-1 {
-  min-height: 620px;
 }
 
 .u-section-1 .u-layout-cell-2 {
