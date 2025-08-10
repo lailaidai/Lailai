@@ -17,6 +17,7 @@
 .u-section-1 .u-shape-3 {
   width: 245px;
   height: 245px;
+
   margin: -188px auto 0 16px;
 }
 
@@ -24,6 +25,7 @@
   width: 634px;
   min-height: 482px;
   background-image: none;
+
   margin: -182px 0 0 auto;
 }
 
@@ -49,6 +51,7 @@
 .u-section-1 .u-shape-4 {
   width: 146px;
   height: 146px;
+
   margin: 416px auto 60px 276px;
 }
 
@@ -193,7 +196,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 50vw;
+    min-height: 985px;
   }
 
   .u-section-1 .u-shape-1 {
