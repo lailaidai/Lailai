@@ -29,7 +29,7 @@
 .u-section-1 .u-image-1 {
   width: 556px;
   height: 556px;
-  background-image: url('profile.JPG');
+  background-image: url("IMG_2587.JPG");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -52,8 +52,8 @@
 
 .u-section-1 .u-layout-cell-2 {
   min-height: 1043px;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
